@@ -1,0 +1,3 @@
+{"goal": "What do the indexed papers say about universal approximation? Then compute 12*12.", "expect_tools": ["search_knowledge_base", "calculator"], "answer_must_contain": ["144"]}
+{"goal": "Compute (3+4)*5.", "expect_tools": ["calculator"], "answer_must_contain": ["35"]}
+{"goal": "Who won the 2018 World Cup?", "expect_tools": [], "answer_must_contain": ["France"]}
